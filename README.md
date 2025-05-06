@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm zkeenz!
 
-<!--
-**zkeenz/zkeenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a solo developer building apps & tools.  
+Currently working on personal projects using Python — small tools and mini games to make everyday life a bit more fun and efficient.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+> Python / Django / Supabase / Streamlit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Projects
+In progress (mostly local apps for now):
+- 🛠 Utility tools to streamline daily tasks
+- 🎮 Mini games for solo fun and experimentation
+- 🤖 Planning some bots and automation tools too
+
+## 🌐 Links
+- Website: Coming soon!
+- Twitter: Coming soon!
+- Email: zkeenz.dev@gmail.com
